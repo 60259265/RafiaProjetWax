@@ -1,0 +1,59 @@
+.section1{
+    background-image: url(Call-to-action.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.barre{
+    text-decoration: none;
+    padding-top: 30px;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+}
+.menu{
+        
+        text-decoration: none;
+        text-decoration-color: black;
+        padding-top: 0px;
+    
+}
+.section2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 150px;
+}
+.part2{
+    margin-left: 100px;
+    margin-right: 300px;
+}
+.Email{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.number{
+    display: flex;
+    justify-content: space-between;
+       
+}
+.adreess{
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    height: 20px;
+    text-align: center;
+    background-color: white;
+    border-top: 1px;
+}
